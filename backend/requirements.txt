@@ -6,3 +6,6 @@ fastf1
 pandas
 numpy
 django-filter
+gunicorn
+dj-database-url
+whitenoise
